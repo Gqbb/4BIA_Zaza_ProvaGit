@@ -1,0 +1,28 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4b12
+
+07/10/2021  12:59    <DIR>          .
+07/10/2021  12:59    <DIR>          ..
+09/10/2021  09:33    <DIR>          .eclipse
+07/10/2021  10:36               174 .packettracer
+11/10/2021  12:58    <DIR>          .VirtualBox
+02/10/2021  09:17    <DIR>          3D Objects
+07/10/2021  09:23    <DIR>          Cisco Packet Tracer 8.0.1
+02/10/2021  09:17    <DIR>          Contacts
+16/10/2021  12:27    <DIR>          Desktop
+02/10/2021  09:17    <DIR>          Documents
+16/10/2021  11:40    <DIR>          Downloads
+02/10/2021  09:17    <DIR>          Favorites
+02/10/2021  09:17    <DIR>          Links
+02/10/2021  09:17    <DIR>          Music
+23/09/2021  09:52    <DIR>          OneDrive
+02/10/2021  09:17    <DIR>          Pictures
+02/10/2021  09:30                39 README.md
+02/10/2021  09:17    <DIR>          Saved Games
+02/10/2021  09:17    <DIR>          Searches
+02/10/2021  09:17    <DIR>          Videos
+09/10/2021  09:33    <DIR>          workspace
+               2 File            213 byte
+              19 Directory  63.139.315.712 byte disponibili
